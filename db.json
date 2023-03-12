@@ -1,0 +1,5 @@
+{
+  "initialData": [
+    { "id": "1", "akun": "8692026968", "bank": "BCA", "kode": "014", "nama": "Andi", "nominal": 7200000, "pesan": "Sukses!" }
+  ]
+}
